@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/SpaceTristan/opendataforweb3.github.io
+	url = https://github.com/SpaceTristan/opendataforweb3
 	branch = master
