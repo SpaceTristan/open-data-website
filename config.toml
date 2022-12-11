@@ -1,7 +1,7 @@
 baseURL = 'https://spacetristan.github.io/'
 languageCode = 'en-us'
 title = 'Open Data for Web3'
-theme = "m10c"
+theme = "m10c-odc-edit"
 
 [params]
     # Author
