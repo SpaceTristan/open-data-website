@@ -1,7 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/SpaceTristan/opendataforweb3
-	branch = master
-[submodule "hugo-theme-m10c"]
-	path = hugo-theme-m10c
-	url = themes/m10c
