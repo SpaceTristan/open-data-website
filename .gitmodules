@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/SpaceTristan/opendataforweb3
 	branch = master
+[submodule "hugo-theme-m10c"]
+	path = hugo-theme-m10c
+	url = https://github.com/vaga/hugo-theme-m10c.git
